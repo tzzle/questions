@@ -1,0 +1,1 @@
+1. Create an object called 'bankAccount' with properties for 'accountNumber', 'balance', and 'accountHolderName'. Add methods for 'deposit', 'withdraw', and 'checkBalance'.
