@@ -1,1 +1,17 @@
 1. Create an object called 'bankAccount' with properties for 'accountNumber', 'balance', and 'accountHolderName'. Add methods for 'deposit', 'withdraw', and 'checkBalance'.
+
+
+
+
+
+toExponential() Method
+1.Write a function that takes a number as an argument and returns a string representation of the number in exponential notation.
+2.Write a function that takes two arguments, a number and the number of decimal places to round to, and returns a string representation of the number in exponential notation with the specified number of decimal places.
+3.Write a program that prompts the user to enter a number and then displays the number in exponential notation.
+4.Write a program that generates a random number between 1 and 100 and then displays the number in exponential notation.
+5.Write a program that calculates the volume of a sphere with a radius of 5 units and then displays the result in exponential notation.
+6.Write a program that calculates the average of three numbers (20, 30, and 40) and then displays the result in exponential notation.
+7.Write a program that converts a temperature of 100 degrees Fahrenheit to Celsius and then displays the result in exponential notation.
+8.Write a program that prompts the user to enter a number and the number of decimal places to round to, and then displays the number in exponential notation with the specified number of decimal places.
+9.Write a program that calculates the value of e raised to the power of 3 and then displays the result in exponential notation.
+10.Write a program that calculates the total cost of purchasing 10 items at $1.99 each and then displays the result in exponential notation.
