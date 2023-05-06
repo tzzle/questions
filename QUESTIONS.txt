@@ -15,3 +15,25 @@ toExponential() Method
 8.Write a program that prompts the user to enter a number and the number of decimal places to round to, and then displays the number in exponential notation with the specified number of decimal places.
 9.Write a program that calculates the value of e raised to the power of 3 and then displays the result in exponential notation.
 10.Write a program that calculates the total cost of purchasing 10 items at $1.99 each and then displays the result in exponential notation.
+
+
+toFixed() Method
+1.Write a function that takes a number as an argument and returns that number rounded to 2 decimal places using the toFixed() method.
+
+2.Create a variable called myNumber and assign it the value 3.14159. Use the toFixed() method to round myNumber to 2 decimal places and assign the result to a new variable called roundedNumber.
+
+3.Write a program that prompts the user for a number and then uses the toFixed() method to round the number to 2 decimal places.
+
+4.Create a function called multiply that takes two numbers as arguments and returns the result rounded to 2 decimal places using the toFixed() method.
+
+5.Write a program that calculates the average of three numbers and then uses the toFixed() method to round the result to 2 decimal places.
+
+6.Create a function called convertToCurrency that takes a number as an argument and returns a string formatted as a currency value (e.g. $1,234.56) using the toFixed() method.
+
+7.Write a program that prompts the user for a price and a tax rate, calculates the total price (including tax), and then formats the result as a currency value using the toFixed() method.
+
+8.Create a function called calculateInterest that takes three arguments: principal (the initial amount invested), rate (the annual interest rate as a decimal), and time (the number of years the money will be invested). The function should return the final value of the investment rounded to 2 decimal places using the toFixed() method.
+
+9.Write a program that calculates the area of a circle given its radius and then formats the result as a decimal with 2 decimal places using the toFixed() method.
+
+10.Create a function called convertToPercentage that takes a decimal number as an argument and returns a string formatted as a percentage value (e.g. 25%) using the toFixed() method.
