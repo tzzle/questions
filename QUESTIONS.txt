@@ -37,3 +37,25 @@ toFixed() Method
 9.Write a program that calculates the area of a circle given its radius and then formats the result as a decimal with 2 decimal places using the toFixed() method.
 
 10.Create a function called convertToPercentage that takes a decimal number as an argument and returns a string formatted as a percentage value (e.g. 25%) using the toFixed() method.
+
+
+toPrecision Method
+1. Write a program that prompts the user to enter a number, and then use the toPrecision() method to display the number with 3 significant digits.
+
+2. Write a program that generates a random number between 1 and 100, and then use the toPrecision() method to display the number with 2 significant digits.
+
+3. Write a program that calculates the area of a circle with a given radius. Use the toPrecision() method to display the area with 4 significant digits.
+
+4. Write a program that converts a temperature in Fahrenheit to Celsius. Use the toPrecision() method to display the temperature in Celsius with 2 significant digits.
+
+5. Write a program that calculates the sum of the first 10 positive integers, and then use the toPrecision() method to display the result with 3 significant digits.
+
+6. Write a program that prompts the user to enter a decimal number, and then use the toPrecision() method to display the number with 5 significant digits.
+
+7. Write a program that calculates the volume of a sphere with a given radius. Use the toPrecision() method to display the volume with 6 significant digits.
+
+8. Write a program that calculates the square root of a number using the Math.sqrt() method, and then use the toPrecision() method to display the result with 4 significant digits.
+
+9. Write a program that prompts the user to enter a number, and then use the toPrecision() method to display the number with a minimum of 2 digits.
+
+10. Write a program that generates a random number between 1 and 10, and then use the toPrecision() method to display the number with a minimum of 3 digits.
