@@ -59,3 +59,56 @@ toPrecision Method
 9. Write a program that prompts the user to enter a number, and then use the toPrecision() method to display the number with a minimum of 2 digits.
 
 10. Write a program that generates a random number between 1 and 10, and then use the toPrecision() method to display the number with a minimum of 3 digits.
+
+
+?? Operator
+1. Write a function that checks if a variable is null or undefined using the nullish coalescing operator.
+2. Write a function that takes an array of numbers and returns the first non-nullish value in the array using the nullish coalescing operator.
+3. Write a function that takes a string and returns the string if it is not null or undefined, otherwise returns an empty string using the nullish coalescing operator.
+4. Write a function that takes an object and returns a default value if a specific key in the object is null or undefined using the nullish coalescing operator.
+5. Write a function that takes two numbers as arguments and returns the first non-nullish value using the nullish coalescing operator.
+6. Write a function that takes an array of strings and returns the first non-nullish value that is longer than a specified length using the nullish coalescing operator.
+7. Write a function that takes an object and returns a default value if the object is null or undefined using the nullish coalescing operator.
+8. Write a function that takes a number and returns a default value if the number is null or undefined using the nullish coalescing operator.
+9. Write a function that takes an array of objects and returns an array of default values for a specific key if the key is null or undefined using the nullish coalescing operator.
+10. Write a function that takes a string and returns a default value if the string is null or undefined using the nullish coalescing operator.
+11. Write a function that takes an object and returns a default value if a specific nested key in the object is null or undefined using the nullish coalescing operator.
+12. Write a function that takes an array of objects and returns an array of default values for specific nested keys if the keys are null or undefined using the nullish coalescing operator.
+13. Write a function that takes a string and returns a default value if the string is null, undefined, or an empty string using the nullish coalescing operator.
+14. Write a function that takes a number and returns a default value if the number is null, undefined, or not a number using the nullish coalescing operator.
+15. Write a function that takes a boolean and returns a default value if the boolean is null or undefined using the nullish coalescing operator.
+16. Write a function that takes an array of booleans and returns the first non-nullish value using the nullish coalescing operator.
+17. Write a function that takes an array of strings and returns an array of default values for each string that is null, undefined, or an empty string using the nullish coalescing operator.
+18. Write a function that takes an array of numbers and returns an array of default values for each number that is null, undefined, or not a number using the nullish coalescing operator.
+19. Write a function that takes an array of booleans and returns an array of default values for each boolean that is null or undefined using the nullish coalescing operator.
+20. Write a function that takes an object and returns a default value if any key in the object is null or undefined using the nullish coalescing operator.
+21. Write a function that takes an array of objects and returns an array of default values for any key in the objects that is null or undefined using the nullish coalescing operator.
+22. Write a function that takes a string and returns the string if it is not null or undefined, otherwise returns a default value of your choice using the nullish coalescing operator.
+23. Write a function that takes a number and returns the number if it is not null, undefined, or NaN, otherwise returns a default value of your choice using the nullish coalescing operator.
+24. Write a function that takes a boolean and returns the boolean if it is not null or undefined, otherwise returns a default value of your choice using the nullish coalescing operator.
+25. Write a function that takes an array of strings and returns the first non-nullish value that is shorter than a specified length using the nullish coalescing operator.
+26. Write a function that takes an array of numbers and returns the first non-nullish value that is greater than a specified number using the nullish coalescing operator.
+27. Write a function that takes an array of booleans and returns the first non-nullish value that is true using the nullish coalescing operator.
+28. Write a function that takes an array of objects and returns the first non-nullish value for a specific key using the nullish coalescing operator.
+29. Write a function that takes an array of objects and returns the first non-nullish value for a specific nested key using the nullish coalescing operator.
+30. Write a function that takes an array of objects and returns the first non-nullish value for any key using the nullish coalescing operator.
+31. Write a function that takes an array of strings and returns an array of default values for each string that is null or undefined using the nullish coalescing operator.
+32. Write a function that takes an array of numbers and returns an array of default values for each number that is null, undefined, or not a number using the nullish coalescing operator.
+33. Write a function that takes an array of booleans and returns an array of default values for each boolean that is null or undefined using the nullish coalescing operator.
+34. Write a function that takes an array of objects and returns an array of default values for any key in the objects that is null, undefined, or an empty string using the nullish coalescing operator.
+35. Write a function that takes an array of strings and returns the first non-nullish value that is longer than a specified length using the nullish coalescing operator.
+36. Write a function that takes an array of numbers and returns the first non-nullish value that is less than a specified number using the nullish coalescing operator.
+37. Write a function that takes an array of booleans and returns the first non-nullish value that is false using the nullish coalescing operator.
+38. Write a function that takes an array of objects and returns the first non-nullish value for any nested key using the nullish coalescing operator.
+39. Write a function that takes an array of objects and returns an array of default values for any nested key in the objects that is null or undefined using the nullish coalescing operator.
+40. Write a function that takes an array of objects and returns an array of default values for any nested key in the objects that is null, undefined, or an empty string using the nullish coalescing operator.
+41. Write a function that takes an array of strings and returns an array of default values for each string that is null, undefined, or an empty string using the nullish coalescing operator.
+42. Write a function that takes an array of numbers and returns an array of default values for each number that is null, undefined, or not a number using the nullish coalescing operator.
+43. Write a function that takes an array of booleans and returns an array of default values for each boolean that is null or undefined using the nullish coalescing operator.
+44. Write a function that takes an array of objects and returns an array of default values for any key in the objects that is null, undefined, or an empty string using the nullish coalescing operator.
+45. Write a function that takes an object and returns a default value if any nested key in the object is null or undefined using the nullish coalescing operator.
+46. Write a function that takes an array of objects and returns an array of default values for any nested key in the objects that is null or undefined using the nullish coalescing operator.
+47. Write a function that takes a string and returns the string if it is not null, undefined, or an empty string, otherwise returns a default value of your choice using the nullish coalescing operator.
+48. Write a function that takes a number and returns the number if it is not null, undefined, or NaN, otherwise returns a default value of your choice using the nullish coalescing operator.
+49. Write a function that takes a boolean and returns the boolean if it is not null or undefined, otherwise returns a default value of your choice using the nullish coalescing operator.
+50. Write a function that takes an array of strings and returns the first non-nullish value that matches a specified pattern using the nullish coalescing operator.
