@@ -1,4 +1,14 @@
-1. Create an object called 'bankAccount' with properties for 'accountNumber', 'balance', and 'accountHolderName'. Add methods for 'deposit', 'withdraw', and 'checkBalance'.
+Object
+1. Create an object called 'person' with properties for 'firstName', 'lastName', and 'age'. Add a method called 'fullName' that returns the person's full name.
+2. Create a function called 'createPerson' that takes in a first name, last name, and age, and returns an object with properties for 'firstName', 'lastName', and 'age', as well as a method called 'fullName'.
+3. Create an object called 'calculator' with methods for 'add', 'subtract', 'multiply', and 'divide'. Each method should take in two numbers and return the result of the corresponding operation.
+4. Create an object called 'bankAccount' with properties for 'accountNumber', 'balance', and 'accountHolderName'. Add methods for 'deposit', 'withdraw', and 'checkBalance'.
+5. Create an object called 'car' with properties for 'make', 'model', and 'year'. Add a method called 'startEngine' that logs the message "Starting engine for [make] [model] [year]..." to the console.
+6. Create an object called 'shoppingList' with properties for 'items' and 'totalCost'. Add methods for 'addItem', 'removeItem', and 'calculateTotalCost'.
+7. Create an object called 'addressBook' with properties for 'contacts' and 'numContacts'. Add methods for 'addContact', 'removeContact', and 'listContacts'.
+8. Create an object called 'book' with properties for 'title', 'author', and 'yearPublished'. Add a method called 'getAge' that returns the age of the book in years.
+9. Create an object called 'weather' with properties for 'temperature', 'humidity', and 'windSpeed'. Add methods for 'convertToFahrenheit', 'convertToCelsius', 'calculateDewPoint', and 'calculateWindChill'.
+10. Create an object called 'timer' with properties for 'startTime' and 'endTime'. Add methods for 'start', 'stop', and 'getElapsedTime'.
 
 
 
